@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Enable GitHub Pages</h2></summary>
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
@@ -176,7 +176,7 @@ For more information about configuring front matter, see the [Jekyll frontmatter
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Nice work, friend :heart:! People will be reading your blog in no time!_
@@ -196,7 +196,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X open>
+<details id=X>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
